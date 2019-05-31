@@ -1,0 +1,50 @@
+body{
+
+	font-family:arial,verdana,sans-serif;
+	background-image: url("img/bogolan.jpg");
+    color: #fff;
+}
+.ash{
+	background-color: peru;
+}
+nav{
+	
+	right:95px;
+	font-family: 'open sans',sans-serif;
+	position: fixed;
+	font-size: 15px;
+	background-color:peachpuff;
+	width: 90%;
+	margin-left: 50px;
+	
+}
+div{
+	background-color: peru;
+}
+ul{
+	list-style: none;
+
+}
+li{
+	display: inline-block;
+	float: right;
+	padding: 8px;
+
+}
+h4{
+	color: #fff;
+}
+p{
+	color: #fff;
+}
+
+a{
+	color:#fff;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+h1{
+	color: #fff;
+}
